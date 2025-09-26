@@ -1,0 +1,7 @@
+contract_id,contract_startdate,contract_enddate,contract_total_fees,contract_deposit_fees,client_name,contract_payment_type
+101,2021-01-01,2023-01-01,500000,,Motaheda Co,ANNUAL
+102,2021-03-01,2024-03-01,600000,10000.0,El Ahly Bank,QUARTER
+103,2021-05-01,2023-05-01,400000,50000.0,Misr Pertol,QUARTER
+104,2021-03-01,2024-03-01,700000,,El Nagah Club,MONTHLY
+105,2021-04-01,2026-04-01,900000,300000.0,OSR Co.,ANNUAL
+106,2021-01-01,2026-01-01,1000000,200000.0,Masters Edu,HALF_ANNUAL
